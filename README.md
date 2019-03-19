@@ -113,3 +113,8 @@ Because OCT 31 = DEC 25
 ![z-index](./images/z-index.png)
 
 ***
+***
+
+![thanosjs](./images/thanosjs.png)
+
+***
